@@ -1,0 +1,20 @@
+# Data files
+agenda.dat
+*.dat
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment specific files (optional but good practice)
+.env
+.venv
+venv/
+ENV/
+
+# IDE specific files (optional)
+.vscode/
+.idea/
+*.swp
